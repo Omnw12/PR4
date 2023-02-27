@@ -7,7 +7,7 @@ using namespace std;
 
 //Atributos del enemigo
 int enemyHP1 = 100;
-string enemyName1 = "Zombie";
+string enemyName1 = "Zomsdbie";
 bool enemyIsAlive1 = true;
 
 //Atributos del enemigo 2
